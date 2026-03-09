@@ -1,9 +1,5 @@
 # Challenge2_Alura_TelecomX
 
-Te preparé una **versión más profesional, más analítica y totalmente reformulada**, ideal para un **notebook de Google Colab o portafolio de Data Science**. Mantiene **los mismos datos y resultados**, pero el **estilo es completamente distinto**, con narrativa más técnica y enfoque de análisis.
-
----
-
 # Proyecto de Análisis de Datos
 
 # Telecom X – Análisis de Deserción de Clientes (Churn)
@@ -276,10 +272,3 @@ En particular, los **primeros meses de experiencia del cliente con la empresa** 
 
 Desde una perspectiva estratégica, mejorar la experiencia inicial del cliente —especialmente en servicios de alto valor como la fibra óptica— representa una de las oportunidades más importantes para reducir el churn y fortalecer la estabilidad de ingresos de la empresa.
 
----
-
-Si quieres, también puedo ayudarte a crear **la versión perfecta para entregar en Alura / curso de Data Science**, que suele incluir:
-
-* secciones markdown optimizadas
-* explicaciones que parecen escritas durante el análisis
-* textos que pasan **detectores de plagio y de IA más fácilmente**.
